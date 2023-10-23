@@ -69,7 +69,12 @@
 
 * Visual Studio Code [https://github.com/mishatoshi/mojito-vscode-theme](https://github.com/mishatoshi/mojito-vscode-theme)
 * Windows Terminal, PowerShell, CMD: [https://github.com/mishatoshi/mojito-windows-terminal](https://github.com/mishatoshi/mojito-windows-terminal)
-* Firefox [https://addons.mozilla.org/ru/firefox/addon/mojito-theme/](https://addons.mozilla.org/ru/firefox/addon/mojito-theme/)
+* Firefox:
+  * Mojito Theme [https://addons.mozilla.org/ru/firefox/addon/mojito-theme/](https://addons.mozilla.org/ru/firefox/addon/mojito-theme/)
+  * Mojito Juicy Mint Theme [https://addons.mozilla.org/ru/firefox/addon/mojito-juicy-mint/](https://addons.mozilla.org/ru/firefox/addon/mojito-juicy-mint/)
+  * Mojito Blue Ocean Theme [https://addons.mozilla.org/ru/firefox/addon/mojito-blue-ocean/](https://addons.mozilla.org/ru/firefox/addon/mojito-blue-ocean/)
+  * Mojito Dark Theme [https://addons.mozilla.org/ru/firefox/addon/mojito-dark/](https://addons.mozilla.org/ru/firefox/addon/mojito-dark/)
+  * Mojito Deep Purple Theme [https://addons.mozilla.org/ru/firefox/addon/mojito-deep-purple/](https://addons.mozilla.org/ru/firefox/addon/mojito-deep-purple/)
 
 ## License
 
