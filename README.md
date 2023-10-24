@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./mojito-logo-512.png"  width="150px" height="150px">
+  <img src="./logo-512.png"  width="150px" height="150px">
 </p>
 
 <h1 align="center">Mojito Theme Collection for Flow Laucher</h1>
