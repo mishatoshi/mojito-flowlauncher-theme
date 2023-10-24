@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mishatoshi/mojito-flowlauncher-theme/assets/110047849/a5b5f778-36f8-4690-b110-ea294f448dea">
+  <img src="./mojito-logo-512.png"  width="150px" height="150px">
 </p>
 
 <h1 align="center">Mojito Theme Collection for Flow Laucher</h1>
@@ -13,6 +13,10 @@
   <div>4. Mojito Dark Theme</div>
   <div>5. Mojito Deep Purple Theme</div>
 </div>
+
+<p align="center">
+  <img src="https://github.com/mishatoshi/mojito-flowlauncher-theme/assets/110047849/73addcbc-2d38-4fc6-9a83-45548a8bd804">
+</p>
 
 ## Getting started
 
