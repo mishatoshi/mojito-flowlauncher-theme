@@ -1,22 +1,22 @@
-<p align="center">
+<div align="center">
   <img src="./logo-512.png"  width="150px" height="150px">
-</p>
+</div>
 
 <h1 align="center">Mojito Theme Collection for Flow Laucher</h1>
 
-<p align="center">🍸 Five beautiful dark themes for comfortable work. Choose your dark theme:</p>
+<h3 align="center">🍸 Five beautiful dark themes for comfortable work. Choose your dark theme:</h3>
 
-<ul align="center">
-  <li style="list-style-type:none;">Mojito Theme</li>
-  <li style="list-style-type:none;">Mojito Juicy Mint Theme</li>
-  <li style="list-style-type:none;">Mojito Blue Ocean Theme</li>
-  <li style="list-style-type:none;">Mojito Dark Theme</li>
-  <li style="list-style-type:none;">Mojito Deep Purple Theme</li>
-</ul>
-
-<p align="center">
+<div align="center">
+  <div>Mojito Theme</div>
+  <div>Mojito Juicy Mint Theme</div>
+  <div>Mojito Blue Ocean Theme</div>
+  <div>Mojito Dark Theme</div>
+  <div>Mojito Deep Purple Theme</div>
+</div>
+</br>
+<div align="center">
   <img src="https://github.com/mishatoshi/mojito-flowlauncher-theme/assets/110047849/73addcbc-2d38-4fc6-9a83-45548a8bd804">
-</p>
+</div>
 
 ## Getting started
 
