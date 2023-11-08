@@ -4,15 +4,15 @@
 
 <h1 align="center">Mojito Theme Collection for Flow Laucher</h1>
 
-<h3 align="center">🍸 The Mojito theme collection includes five color themes for comfortable work in Flow Launcher</h3>
+<p align="center">🍸 Five beautiful dark themes for comfortable work. Choose your dark theme:</p>
 
-<div align="center">
-  <div>1. Mojito Theme</div>
-  <div>2. Mojito Juicy Mint Theme</div>
-  <div>3. Mojito Blue Ocean Theme</div>
-  <div>4. Mojito Dark Theme</div>
-  <div>5. Mojito Deep Purple Theme</div>
-</div>
+<ul align="center">
+  <li style="list-style-type:none;">Mojito Theme</li>
+  <li style="list-style-type:none;">Mojito Juicy Mint Theme</li>
+  <li style="list-style-type:none;">Mojito Blue Ocean Theme</li>
+  <li style="list-style-type:none;">Mojito Dark Theme</li>
+  <li style="list-style-type:none;">Mojito Deep Purple Theme</li>
+</ul>
 
 <p align="center">
   <img src="https://github.com/mishatoshi/mojito-flowlauncher-theme/assets/110047849/73addcbc-2d38-4fc6-9a83-45548a8bd804">
