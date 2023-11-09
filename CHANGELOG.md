@@ -1,6 +1,6 @@
 # Mojito Theme Collection for Flow Laucher
 
-## v.1.0.0
+## v1.0.0
 
 ### Major Changes
 
