@@ -10,7 +10,7 @@
         x:Key="ItemGlyph"
         BasedOn="{StaticResource BaseGlyphStyle}"
         TargetType="{x:Type TextBlock}">
-        <Setter Property="Foreground" Value="#FAFAFA" />
+        <Setter Property="Foreground" Value="#E6E6E6" />
     </Style>
     <Style
         x:Key="QueryBoxStyle"
@@ -18,11 +18,11 @@
         TargetType="{x:Type TextBox}">
         <Setter Property="SelectionBrush">
             <Setter.Value>
-                <SolidColorBrush Opacity="0.4" Color="#43A047" />
+                <SolidColorBrush Opacity="0.4" Color="#007FFF" />
             </Setter.Value>
         </Setter>
         <Setter Property="FontSize" Value="24" />
-        <Setter Property="Foreground" Value="#FAFAFA" />
+        <Setter Property="Foreground" Value="#E6E6E6" />
         <Setter Property="CaretBrush" Value="#FFC107" />
         <Setter Property="FontSize" Value="26" />
         <Setter Property="Padding" Value="0,4,66,0" />
@@ -43,7 +43,7 @@
         BasedOn="{StaticResource BaseWindowBorderStyle}"
         TargetType="{x:Type Border}">
         <Setter Property="BorderThickness" Value="1" />
-        <Setter Property="BorderBrush" Value="#1A1A1A" />
+        <Setter Property="BorderBrush" Value="#141414" />
         <Setter Property="CornerRadius" Value="5" />
         <Setter Property="Background" Value="#1F1F1F" />
     </Style>
@@ -67,7 +67,7 @@
         x:Key="ItemTitleStyle"
         BasedOn="{StaticResource BaseItemTitleStyle}"
         TargetType="{x:Type TextBlock}">
-        <Setter Property="Foreground" Value="#FAFAFA" />
+        <Setter Property="Foreground" Value="#E6E6E6" />
     </Style>
     <Style
         x:Key="ItemSubTitleStyle"
@@ -88,7 +88,7 @@
         BasedOn="{StaticResource BaseItemTitleSelectedStyle}"
         TargetType="{x:Type TextBlock}">
         <Setter Property="Cursor" Value="Arrow" />
-        <Setter Property="Foreground" Value="#FAFAFA" />
+        <Setter Property="Foreground" Value="#E6E6E6" />
     </Style>
     <Style
         x:Key="ItemSubTitleSelectedStyle"
@@ -99,7 +99,7 @@
         <Setter Property="FontSize" Value="13" />
         <Setter Property="FontWeight" Value="Regular" />
     </Style>
-    <SolidColorBrush x:Key="ItemSelectedBackgroundColor">#1A1A1A</SolidColorBrush>
+    <SolidColorBrush x:Key="ItemSelectedBackgroundColor">#141414</SolidColorBrush>
     <Style
         x:Key="ItemImageSelectedStyle"
         BasedOn="{StaticResource BaseItemImageSelectedStyle}"
@@ -115,7 +115,7 @@
     </Style>
     <Style x:Key="ItemHotkeySelectedStyle" TargetType="{x:Type TextBlock}">
         <Setter Property="FontSize" Value="13" />
-        <Setter Property="Foreground" Value="#FAFAFA" />
+        <Setter Property="Foreground" Value="#E6E6E6" />
     </Style>
     <!--  button style in the middle of the scrollbar  -->
     <Style
@@ -182,7 +182,7 @@
         x:Key="PreviewItemTitleStyle"
         BasedOn="{StaticResource BasePreviewItemTitleStyle}"
         TargetType="{x:Type TextBlock}">
-        <Setter Property="Foreground" Value="#FAFAFA" />
+        <Setter Property="Foreground" Value="#E6E6E6" />
     </Style>
     <Style
         x:Key="PreviewItemSubTitleStyle"
@@ -194,6 +194,6 @@
         x:Key="PreviewGlyph"
         BasedOn="{StaticResource BasePreviewGlyph}"
         TargetType="{x:Type TextBlock}">
-        <Setter Property="Foreground" Value="#FAFAFA" />
+        <Setter Property="Foreground" Value="#E6E6E6" />
     </Style>
 </ResourceDictionary>
