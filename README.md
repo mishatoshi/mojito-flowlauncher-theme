@@ -1,11 +1,14 @@
-<p align="center">
+<div align="center">
   <img src="./mojito-logo-512.png"  width="150px" height="150px">
   <h1>Mojito Theme for Flow Laucher</h1>
   <h3>🍸 Five beautiful dark themes for comfortable work in Flow Launcher</h3>
-</p>
+</div>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/mishatoshi/mojito-windows-terminal/assets/110047849/fdcb0f91-8cfd-40ff-87f3-5730be0f42f4">
+</p>
+<p align="center">
+  <img src="https://github.com/mishatoshi/mojito-windows-terminal/assets/110047849/3bdc7f08-5438-4a26-a824-5c29225d8cc5">
 </p>
 
 ## Getting started
