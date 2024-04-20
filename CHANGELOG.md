@@ -1,5 +1,31 @@
 # Mojito Theme for Flow Laucher
 
+## v2.0.0
+
+### Major Changes
+
+1. The main theme of Mojito (Mojito Dark Teal) has been updated. The new color palette of the teal color.
+2. More contrasting colors in Mojito Juicy Mint (Mojito Dark Green) and Mojito Blue Ocean (Mojito Blue Grey).
+
+### Minor Changes
+
+* Color changes for all themes:
+  * Foreground for all elements
+  * Dark color for SeparatorStyle
+  * Gold color for PendingLineStyle
+  * CornerRadius (5 -> 10) for WindowBorderStyle
+  * Light Green color for SelectionBrush in QueryBoxStyle
+
+### Patch Changes
+
+* Changes to the names of color themes:
+  * Mojito > Mojito Dark Teal
+  * Mojito Juicy Mint > Mojito Dark Green
+  * Mojito Blue Ocean > Mojito Blue Grey
+  * Mojito Dark > Mojito Dark Grey
+
+___
+
 ## v1.16.0
 
 ### Minor Changes
