@@ -4,8 +4,8 @@
 
 ### Major Changes
 
-1. The main theme of Mojito (Mojito Dark Teal) has been updated. The new color palette of the teal color.
-2. More contrasting colors in Mojito Juicy Mint (Mojito Dark Green) and Mojito Blue Ocean (Mojito Blue Grey).
+1. The main theme of Mojito Dark Teal (Mojito) has been updated. The new color palette of the teal color.
+2. More contrasting colors in Mojito Dark Green (Mojito Juicy Mint) and Mojito Blue Grey (Mojito Blue Ocean).
 
 ### Minor Changes
 
