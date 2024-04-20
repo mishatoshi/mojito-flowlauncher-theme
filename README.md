@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="./mojito-logo-512.png"  width="150px" height="150px">
+  <img src="./mojito-logo.png"  width="100px" height="100px">
   <h1>Mojito Theme for Flow Laucher</h1>
   <h3>🍸 Five beautiful dark themes for comfortable work in Flow Launcher</h3>
 </div>
 
 <p align="center">
-  <img src="https://github.com/mishatoshi/mojito-windows-terminal/assets/110047849/fdcb0f91-8cfd-40ff-87f3-5730be0f42f4">
+  <img src="https://github.com/mishatoshi/mojito-flowlauncher-theme/assets/110047849/ce7279c9-9cb9-4d5a-bd1a-36b43e17c715">
 </p>
 <p align="center">
-  <img src="https://github.com/mishatoshi/mojito-windows-terminal/assets/110047849/3bdc7f08-5438-4a26-a824-5c29225d8cc5">
+  <img src="https://github.com/mishatoshi/mojito-flowlauncher-theme/assets/110047849/6c826a7d-b442-4432-aab3-7ad66a062181">
 </p>
 
 ## Getting started
@@ -19,39 +19,39 @@
 
 1. Open Windows Terminal, PowerShell or Git Bash. Select a color theme and run:
 
-    * Mojito
+    * **Mojito Dark Teal**
 
     ```PowerShell
     cd ~/AppData/Roaming/FlowLauncher/Themes
 
-    curl -o Mojito.xaml https://raw.githubusercontent.com/mishatoshi/mojito-flowlauncher-theme/main/themes/Mojito.xaml
+    curl -o MojitoDarkTeal.xaml https://raw.githubusercontent.com/mishatoshi/mojito-flowlauncher-theme/main/themes/MojitoDarkTeal.xaml
     ```
 
-    * Mojito Juicy Mint
+    * **Mojito Dark Green**
 
     ```PowerShell
     cd ~/AppData/Roaming/FlowLauncher/Themes
 
-    curl -o MojitoJuicyMint.xaml https://raw.githubusercontent.com/mishatoshi/mojito-flowlauncher-theme/main/themes/MojitoJuicyMint.xaml
+    curl -o MojitoDarkGreen.xaml https://raw.githubusercontent.com/mishatoshi/mojito-flowlauncher-theme/main/themes/MojitoDarkGreen.xaml
     ```
 
-    * Mojito Blue Ocean
+    * **Mojito Blue Grey**
 
     ```PowerShell
     cd ~/AppData/Roaming/FlowLauncher/Themes
 
-    curl -o MojitoBlueOcean.xaml https://raw.githubusercontent.com/mishatoshi/mojito-flowlauncher-theme/main/themes/MojitoBlueOcean.xaml
+    curl -o MojitoBlueGrey.xaml https://raw.githubusercontent.com/mishatoshi/mojito-flowlauncher-theme/main/themes/MojitoBlueGrey.xaml
     ```
 
-    * Mojito Dark
+    * **Mojito Dark Grey**
 
     ```PowerShell
     cd ~/AppData/Roaming/FlowLauncher/Themes
 
-    curl -o MojitoDark.xaml https://raw.githubusercontent.com/mishatoshi/mojito-flowlauncher-theme/main/themes/MojitoDark.xaml
+    curl -o MojitoDarkGrey.xaml https://raw.githubusercontent.com/mishatoshi/mojito-flowlauncher-theme/main/themes/MojitoDarkGrey.xaml
     ```
 
-    * Mojito Deep Purple
+    * **Mojito Deep Purple**
 
     ```PowerShell
     cd ~/AppData/Roaming/FlowLauncher/Themes
@@ -60,7 +60,7 @@
     ```
 
 2. Restart the Flow Launcher `F5`
-3. Go to Flow launcher Settings `Ctrl + I` > Theme and select a color theme
+3. Go to Flow launcher **Settings** `Ctrl + I` > **Appearance** > **Theme** and select a color theme
 
 ## Other versions
 
